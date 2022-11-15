@@ -1,7 +1,7 @@
 [![MasterHead](https://developers.giphy.com/branch/master/static/api-512d36c09662682717108a38bbb5c57d.gif)]
 <h1 align="center">Hi 👋, I'm Donovan Valdovinos</h1>
 <h3 align="center">A passionate learning developer from California</h3>
-<img align="right" alt="Coding" width="400" src="https://miro.medium.com/max/1272/1*ZSVmWGcc1weENb0ShawWxw.gif”>
+<img align="right" alt="Coding" width="400" src="https://media.tenor.com/NOYF3f82b_gAAAAC/programmer.gif”>
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dveezy6&label=Profile%20views&color=0e75b6&style=flat" alt="dveezy6" /> </p>
